@@ -1,0 +1,40 @@
+{
+  "artisan": [
+    {
+      "id": 1,
+      "name": "John",
+      "surname": "Doe",
+      "phone": "123456789",
+      "address": "123 Street",
+      "email": "john@gmail.com",
+      "business_name": "Doe's Crafts",
+      "business_address": "456 Avenue",
+      "password": "password123",
+      "photo": "https://example.com/artisan1.jpg"
+    },
+    {
+      "name": "",
+      "surname": "tt",
+      "phone": "",
+      "address": "ytyt",
+      "email": "",
+      "businessName": "",
+      "businessAddress": "",
+      "password": "",
+      "photo": "ty",
+      "id": 2
+    },
+    {
+      "name": "",
+      "surname": "",
+      "phone": "fdf",
+      "address": "fd",
+      "email": "",
+      "businessName": "",
+      "businessAddress": "",
+      "password": "",
+      "photo": "",
+      "id": 3
+    }
+  ]
+}
